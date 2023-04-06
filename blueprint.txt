@@ -1,0 +1,17 @@
+.
+├── api
+│   ├── buildings.py
+│   └── materials.py
+├── css
+│   └── style.css
+├── database
+│   ├── data.csv
+│   └── schema.sql
+├── html
+│   └── index.html
+├── images
+│   ├── building1.jpg
+│   ├── building2.jpg
+│   └── building3.jpg
+└── js
+    └── app.js
